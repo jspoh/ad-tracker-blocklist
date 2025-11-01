@@ -1,2 +1,1 @@
 ||nexus-websocket-a.intercom.io^
-||beacons.gcp.gvt2.com^
